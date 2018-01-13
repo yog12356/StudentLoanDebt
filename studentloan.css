@@ -1,0 +1,17 @@
+#body
+{
+    background-color: aqua;
+}
+
+
+#header
+{
+    font-family: 'Joti One', cursive;
+    text-align: center;
+}
+
+#paragraph
+{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
